@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+
+.vscode/
+*.swp
+
+
+
+# Flask instance folder
+instance/
+
+# Logs
+*.log
+
+# Other temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.cache/

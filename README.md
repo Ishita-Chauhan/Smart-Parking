@@ -1,0 +1,2 @@
+# Smart-Parking
+ The Smart Parking Solution is an innovative web application designed to streamline the parking experience for users by providing real-time information on parking lot availability. By leveraging modern technologies such as Flask for the backend, a responsive frontend using Bootstrap or Tailwind CSS, and advanced vehicle detection using machine learning models like YOLO, this application aims to reduce the time spent searching for parking and enhance overall efficiency.
