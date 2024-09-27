@@ -1,7 +1,7 @@
  <h2>🌼Smart Parking Solution 🌼</h2><br><br>
 Welcome to the Smart Parking Solution! This innovative web application helps users find parking spots quickly and efficiently, reducing the time spent searching for a place to park. 🌿<br><br>
 🌺 Overview<br><br>
-The Smart Parking Solution is designed to provide real-time information on parking lot availability. With a user-friendly interface and advanced vehicle detection, this application enhances the parking experience for users. 🍃<br>
+The Smart Parking Solution is designed to provide real-time information on parking lot availability. With a user-friendly interface and advanced vehicle detection, this application enhances the parking experience for users. 🍃<br><br>
 
 🌻 Key Features<br><br>
 Real-Time Parking Spot Availability: View live updates on available parking spots.<br>
@@ -34,7 +34,8 @@ cd smart-parking-backend</code></pre>
             Create a virtual environment:
             <pre><code>◆ For Linux/macOS:
 python3 -m venv venv
-source venv/bin/activate
+source venv/Scripts/activate
+
 
 ◆ For Windows:
 python -m venv venv
