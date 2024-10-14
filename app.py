@@ -1,4 +1,4 @@
-#importing
+
 from flask import Flask, jsonify, Response, request
 from flask_cors import CORS
 from detect import detect_vehicles  # Import the function, not the route
